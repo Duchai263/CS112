@@ -1,4 +1,5 @@
-Sorce 
-Nhóm 2: 9.8
-Nhóm 3: 10
-Nhóm 4: 10
+{
+  'NHOM2': 9.8
+  'NHOM3': 10
+  'NHOM4': 10
+}
